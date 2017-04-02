@@ -1,0 +1,39 @@
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/10_c0.bmp (222, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/11_c0.bmp (18, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/12_c0.bmp (23, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/13_c0.bmp (83, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/1_c0.bmp (385, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/2_c0.bmp (130, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/3_c0.bmp (215, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/4_c0.bmp (162, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/5_c0.bmp (440, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/6_c0.bmp (238, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/7_c0.bmp (195, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/8_c0.bmp (138, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_oxidation_test/9_c0.bmp (49, 128)
+[2]

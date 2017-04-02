@@ -1,0 +1,20 @@
+#!/bin/bash
+
+python learn.py -d ../Used_Dataset/train
+rm grid_res_img_file.png
+rm tmp.pgm
+
+for file in ../Used_Dataset/test/c0/svm_dust_test/*.bmp; 
+do 
+	python classify.py -c ../Used_Dataset/traincodebook.file -m ../Used_Dataset/traintrainingdata.svm.model $file >> ../Used_Dataset/test/c0/dust.txt; 
+done
+
+for file in ../Used_Dataset/test/c0/svm_oxidation_test/*.bmp; 
+do 
+	python classify.py -c ../Used_Dataset/traincodebook.file -m ../Used_Dataset/traintrainingdata.svm.model $file >> ../Used_Dataset/test/c0/oxidation.txt; 
+done
+
+for file in ../Used_Dataset/test/c0/svm_ok_test/*.bmp; 
+do 
+	python classify.py -c ../Used_Dataset/traincodebook.file -m ../Used_Dataset/traintrainingdata.svm.model $file >> ../Used_Dataset/test/c0/ok.txt; 
+done

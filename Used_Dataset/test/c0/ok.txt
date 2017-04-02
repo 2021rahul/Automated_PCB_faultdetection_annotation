@@ -1,0 +1,30 @@
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_ok_test/10_c0.bmp (253, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_ok_test/1_c0.bmp (156, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_ok_test/2_c0.bmp (252, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_ok_test/3_c0.bmp (54, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_ok_test/4_c0.bmp (188, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_ok_test/5_c0.bmp (218, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_ok_test/6_c0.bmp (365, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_ok_test/7_c0.bmp (251, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_ok_test/8_c0.bmp (56, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_ok_test/9_c0.bmp (14, 128)
+[1]

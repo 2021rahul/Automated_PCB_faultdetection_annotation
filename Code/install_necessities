@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# installing libsvm
+tar -xzf libsvm.tar.gz
+mkdir libsvm
+cp -r libsvm-*/* libsvm/
+rm -r libsvm-*/
+cd libsvm
+make
+cp tools/grid.py ../grid.py
+cd ..
+
+# installing sift
+unzip siftDemoV4.zip
+cp sift*/sift sift

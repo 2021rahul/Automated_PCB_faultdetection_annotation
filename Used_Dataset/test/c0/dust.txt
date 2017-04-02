@@ -1,0 +1,219 @@
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/10_c0.bmp (479, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/11_c0.bmp (135, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/12_c0.bmp (48, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/13_c0.bmp (123, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/14_c0.bmp (204, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/15_c0.bmp (231, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/16_c0.bmp (352, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/17_c0.bmp (183, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/18_c0.bmp (27, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/19_c0.bmp (105, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/1_c0.bmp (141, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/20_c0.bmp (325, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/21_c0.bmp (184, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/22_c0.bmp (344, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/23_c0.bmp (23, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/24_c0.bmp (22, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/25_c0.bmp (30, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/26_c0.bmp (76, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/27_c0.bmp (229, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/28_c0.bmp (136, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/29_c0.bmp (71, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/2_c0.bmp (25, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/30_c0.bmp (454, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/31_c0.bmp (124, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/32_c0.bmp (144, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/33_c0.bmp (193, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/34_c0.bmp (31, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/35_c0.bmp (56, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/36_c0.bmp (177, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/37_c0.bmp (117, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/38_c0.bmp (183, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/39_c0.bmp (408, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/3_c0.bmp (86, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/40_c0.bmp (234, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/41_c0.bmp (488, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/42_c0.bmp (338, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/43_c0.bmp (254, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/44_c0.bmp (79, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/45_c0.bmp (225, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/46_c0.bmp (274, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/47_c0.bmp (626, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/48_c0.bmp (221, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/49_c0.bmp (173, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/4_c0.bmp (40, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/50_c0.bmp (120, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/51_c0.bmp (46, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/52_c0.bmp (20, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/53_c0.bmp (260, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/54_c0.bmp (104, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/55_c0.bmp (75, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/56_c0.bmp (35, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/57_c0.bmp (162, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/58_c0.bmp (317, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/59_c0.bmp (16, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/5_c0.bmp (69, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/60_c0.bmp (33, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/61_c0.bmp (94, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/62_c0.bmp (65, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/63_c0.bmp (282, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/64_c0.bmp (13, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/65_c0.bmp (338, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/66_c0.bmp (501, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/67_c0.bmp (236, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/68_c0.bmp (83, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/69_c0.bmp (21, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/6_c0.bmp (178, 128)
+[1]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/70_c0.bmp (138, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/71_c0.bmp (131, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/72_c0.bmp (28, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/73_c0.bmp (12, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/7_c0.bmp (478, 128)
+[0]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/8_c0.bmp (32, 128)
+[2]
+extracting Sift features
+gathering sift features for ../Used_Dataset/test/c0/svm_dust_test/9_c0.bmp (27, 128)
+[0]
